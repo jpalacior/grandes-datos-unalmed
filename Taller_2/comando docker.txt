@@ -1,0 +1,1 @@
+docker run --rm -it -v reemplazarcarpetalocal:/datalake -p 8088:8088 -p 8888:8888 jdvelasq/pyspark:2.4.7-pseudo
