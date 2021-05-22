@@ -1,0 +1,9 @@
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < product_category_name_translation.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_sellers_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_products_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_orders_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_order_reviews_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_order_payments_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_order_items_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_geolocation_dataset.js
+mongo "mongodb+srv://cluster0.jn9qv.mongodb.net/myFirstDatabase" --username palaciju -p "1234" < olist_customers_dataset.js
